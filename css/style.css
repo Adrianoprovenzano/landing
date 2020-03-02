@@ -106,10 +106,11 @@ https://templatemo.com/tm-521-get-ready
   }
 
   .grid-line {
+      display:none;
     height: 100vh;
-    border-right: 150px dotted rgba(255, 172, 166, 0.9);
-      opacity: 0.1;
-      transform: translateX(75px);
+    border-right: 12px dotted rgba(255, 172, 166, 0.9);
+      opacity: 0.25;
+      transform: translateX(60px);
   }
 
   .google-map iframe {
